@@ -1,0 +1,97 @@
+{
+  "menu": {
+    "header": "Adobe SVG Viewer",
+    "item": [
+      {
+        "-action": "Open",
+        "-id": "Open",
+        "#text": "Open"
+      },
+      {
+        "-action": "OpenNew",
+        "-id": "OpenNew",
+        "#text": "Open New"
+      },
+      {
+        "-action": "ZoomIn",
+        "-id": "ZoomIn",
+        "#text": "Zoom In"
+      },
+      {
+        "-action": "ZoomOut",
+        "-id": "ZoomOut",
+        "#text": "ZoomOut"
+      },
+      {
+        "-action": "OriginalView",
+        "-id": "OriginalView",
+        "#text": "OriginalView"
+      },
+      {
+        "-action": "Quality",
+        "-id": "Quality",
+        "#text": "Quality"
+      },
+      {
+        "-action": "Pause",
+        "-id": "Pause",
+        "#text": "Pause"
+      },
+      {
+        "-action": "Mute",
+        "-id": "Mute",
+        "#text": "Mute"
+      },
+      {
+        "-action": "Find",
+        "-id": "Find",
+        "#text": "Find"
+      },
+      {
+        "-action": "FindAgain",
+        "-id": "FindAgain",
+        "#text": "FindAgain"
+      },
+      {
+        "-action": "Copy",
+        "-id": "Copy",
+        "#text": "Copy"
+      },
+      {
+        "-action": "CopyAgain",
+        "-id": "CopyAgain",
+        "#text": "CopyAgain"
+      },
+      {
+        "-action": "CopySVG",
+        "-id": "CopySVG",
+        "#text": "CopySVG"
+      },
+      {
+        "-action": "ViewSVG",
+        "-id": "ViewSVG",
+        "#text": "ViewSVG"
+      },
+      {
+        "-action": "ViewSource",
+        "-id": "ViewSource",
+        "#text": "ViewSource"
+      },
+      {
+        "-action": "SaveAs",
+        "-id": "SaveAs",
+        "#text": "SaveAs"
+      },
+      {
+        "-action": "Help",
+        "-id": "Quality",
+        "#text": "Help"
+      },
+      {
+        "-action": "About",
+        "-id": "Pause",
+        "#text": "About Adobe CVG Viewwe"
+      }
+    ]
+  }
+}
